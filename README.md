@@ -1,6 +1,6 @@
 
 # Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm Adir Edri from Israel, a self-learner of data analyst
+I'm Adir Edri from Israel, a self-learner of data analyst.
 
 ## Skills and Experience
 
