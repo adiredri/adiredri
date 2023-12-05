@@ -4,8 +4,9 @@ I'm Adir Edri from Israel, a self-learner of data analyst.
 
 ## Skills 
 
-* Programming languages - C# , SQL , Python (Numpy, Pandas, Matplotlib)
+* Programming languages - C# , SQL , Python (Numpy, Datetime, Pandas, Matplotlib)
 * Data Visualization - Tableau, Power BI
+* Microsoft Excel (VLOOKUP, Pivot Table, Pivot Charts, Solver)
 
 📫 Reach me:
 
