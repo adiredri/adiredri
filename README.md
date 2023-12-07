@@ -16,5 +16,5 @@ I'm Adir Edri from Israel, a self-learner of data analyst.
 ## Examples of Work
 
 ### 📊 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiredri&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiredri&layout=compact&theme=dark)
 
