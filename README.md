@@ -17,7 +17,7 @@ I'm Adir Edri from Israel, a self-learner of data analyst.
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="55px" height="55px"/></a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="55px" height="55px"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" width="55px" height="55px"/></a>
+<a href="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" target="_blank"> <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" width="55px" height="55px"/></a>
 <a href="https://www.tutorialsteacher.com/Content/images/home/sql.png" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="55px" width="55px"/></a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50px" height="60px"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="60px" height="60px"/></a>
