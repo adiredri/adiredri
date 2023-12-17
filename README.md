@@ -17,6 +17,8 @@ I'm Adir Edri from Israel, a self-learner of data analyst.
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="45px" height="45px"/></a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="45px" height="45px"/></a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="45px" height="45px"/></a>
+<a href="https://www.svgrepo.com/show/354427/tableau.svg" target="_blank"> <img src="https://www.svgrepo.com/show/354427/tableau.svg" width="45px" width="60px"/></a>
 <a href="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" target="_blank"> <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" width="45px" height="45px"/></a>
 <a href="https://www.tutorialsteacher.com/Content/images/home/sql.png" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="45px" width="45px"/></a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="45px" height="50px"/></a>
