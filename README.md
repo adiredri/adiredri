@@ -1,12 +1,9 @@
+
 # Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm Adir Edri from Israel, a Project Planning & Control Analyst <br> 
-B.Sc. in Industrial & Management Engineering <br>
-B.Sc. in Computer Science 
-I'm Adir Edri from Israel, a Project Planning & Control Analyst. <br> 
+I'm Adir Edri, Project Planning & Control Analyst. <br> 
 B.Sc. in Industrial & Management Engineering. <br>
 B.Sc. in Computer Science.
 
-## 
 ## Social
 
 📫 Reach me:
@@ -53,7 +50,55 @@ B.Sc. in Computer Science.
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-@@ -102,28 +102,27 @@
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+      <br>linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+ <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power" />
+      <br>Power BI
     </td>
     <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
@@ -78,6 +123,8 @@ B.Sc. in Computer Science.
  </tr>
 </table>
 </div>
-<br/>  
 
 <!-- END TABLE -->
+
+### 📊 My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiredri&layout=compact&theme=transparent)
