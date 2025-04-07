@@ -53,6 +53,40 @@ B.Sc. in Computer Science.
       <br>C#
     </td>
   </tr>
+   <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+        <img src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+        <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" width="55" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+ </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
@@ -87,40 +121,6 @@ B.Sc. in Computer Science.
     <br>C
     </td>
   </tr>
- <tr>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="anaconda" />
-      <br>Anaconda
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power" />
-      <br>Power BI
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
-      <br>Tableau
-    </td>
-    <td align="center" width="96">
-        <img src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-        <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" width="55" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="48" height="48" alt="Seaborn" />
-      <br>Seaborn
-    </td>
- </tr>
 </table>
 </div>
 
