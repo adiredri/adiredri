@@ -34,15 +34,15 @@ B.Sc. in Computer Science.
     <td align="center" width="96"><img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" width="55" height="48" alt="Pandas" /><br>Pandas</td>
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="48" height="48" alt="Matplotlib" /><br>Matplotlib</td>
     <td align="center" width="96"><img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="48" height="48" alt="Seaborn" /><br>Seaborn</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br>PyTorch</td>
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48" height="48" alt="PySpark" /><br>PySpark</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="48" height="48" alt="SQL"/><br>SQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br>SQL</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" /><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://assets-global.website-files.com/6210e531c5cfa30722f9b0c2/6210e531c5cfa3076cf9b10c_Frame%2011.svg" width="48" height="48" alt="Roboflow" /><br>Roboflow</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://storage.googleapis.com/roboflow-marketing/logo/roboflow-logo-512x512.png" width="48" height="48" alt="Roboflow" /><br>Roboflow</td>
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power" /><br>Power BI</td>
     <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" /><br>Tableau</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" /><br>linux</td>    
