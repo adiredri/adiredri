@@ -1,8 +1,8 @@
  
 # Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 I'm Adir Edri, Project & Data Analyst. <br> 
-B.Sc. in Industrial & Management Engineering. <br>
-B.Sc. in Computer Science.
+B.Sc. in Industrial Engineering & Management with a specialization in Information Systems. <br>
+B.Sc. in Computer Science with a specialization in Deep Learning & Data Science.
 
 ## Social
 
