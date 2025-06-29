@@ -70,35 +70,35 @@ Seeking: **Data Engineering** | **BI Development** | **Analytics** roles
 
 ## Featured Projects
 
-### **[Groupify - Smart Photo Sharing Platform](https://github.com/groupify-team/groupify)** 📸 
+### **[Groupify - Smart Photo Sharing Platform](https://github.com/groupify-team/groupify)**
 *React + Firebase + AI Integration*
 - Built intelligent photo sharing app with face recognition for group trips
 - Implemented real-time collaboration features with Firebase backend
 - Developing AI-powered personalized galleries using face detection APIs
 - **Technologies:** React, Firebase, TailwindCSS, Face Recognition APIs, Vite
 
-### **[RoadEye - AI Road Safety Detection System](https://github.com/RoadEyeProject/RoadEye_model)** 🚗 
+### **[RoadEye - AI Road Safety Detection System](https://github.com/RoadEyeProject/RoadEye_model)**
 *YOLOv8 + Computer Vision + Real-Time Processing*
 - Developed custom YOLOv8 model for real-time detection of police cars, traffic cones, road signs, and accidents
 - Implemented advanced data pipeline with negative mining to reduce false positives by 40%
 - Trained on Israeli road dataset with 640×640 resolution achieving high mAP performance
 - **Technologies:** YOLOv8, Python, OpenCV, ONNX, Ultralytics, Computer Vision
 
-### **[ClickTrust - Digital Asset Trading System](https://github.com/adiredri/ClickTrust)** 💼 
+### **[ClickTrust - Digital Asset Trading System](https://github.com/adiredri/ClickTrust)**
 *Full-Stack E-Commerce Platform*
 - Developed comprehensive digital marketplace for asset trading (tickets, subscriptions, digital products)
 - Implemented secure authentication, role-based access control, and automated order processing
 - Built RESTful API with complete CRUD operations and admin dashboard
 - **Technologies:** Node.js, Express, MongoDB, JavaScript, HTML/CSS
 
-### 🧠 **[Deep Learning Fundamentals Portfolio](https://github.com/adiredri/DeepLearning-Portfolio)**
+### **[Deep Learning Fundamentals Portfolio](https://github.com/adiredri/DeepLearning-Portfolio)**
 *NumPy + PyTorch + Computer Vision*
 - Built neural networks from scratch using NumPy, achieving 95.6% accuracy on gesture recognition
 - Developed multi-class CNN for sign language digits with 98.93% validation accuracy
 - Implemented fine-grained car classification using ResNet-50 transfer learning (73.78% accuracy on 196 categories)
 - **Technologies:** PyTorch, NumPy, CNNs, Transfer Learning, Image Classification
 
-### 🏨 **[Hotel Price Prediction with Smart Sampling](https://github.com/adiredri/HotelPricePrediction)**
+### **[Hotel Price Prediction with Smart Sampling](https://github.com/adiredri/HotelPricePrediction)**
 *Web Scraping + Machine Learning + Active Learning*
 - Scraped real-time hotel data from Booking.com and Expedia using Playwright and BeautifulSoup
 - Developed Gaussian Process Regression with uncertainty-driven sampling, reducing data needs by 75%
