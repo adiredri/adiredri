@@ -10,7 +10,9 @@
 
 ## About Me
 
-**Dual B.Sc. Graduate** specializing in **Industrial Engineering & Information Systems** + **Computer Science & Deep Learning**
+**Dual B.Sc. Graduate** in :
+**Industrial Engineering & Management with specializing in Information Systems** + 
+**Computer Science with specializing in Data Science & Deep Learning**
 
 Currently: **Project Planning & Control Engineer** | **Data Analyst**  
 Seeking: **Data Engineering** | **BI Development** | **Analytics** roles
