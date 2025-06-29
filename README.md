@@ -1,4 +1,3 @@
-```markdown
 # Adir Edri | Data Engineer & Analytics Developer
 
 > **Transforming Complex Data into Actionable Business Intelligence**
@@ -129,4 +128,3 @@ class AdirEdri:
 ---
 
 *"Data is the new oil, but insights are the new gold." - Transforming your data into strategic advantages.*
-```
