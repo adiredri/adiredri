@@ -91,14 +91,14 @@ Seeking: **Data Engineering** | **BI Development** | **Analytics** roles
 - Built RESTful API with complete CRUD operations and admin dashboard
 - **Technologies:** Node.js, Express, MongoDB, JavaScript, HTML/CSS
 
-### **[Deep Learning Fundamentals Portfolio](https://github.com/adiredri/DeepLearning-Portfolio)**
+### **[Deep Learning Fundamentals Portfolio](https://github.com/adiredri/Deep-Learning-Project)**
 *NumPy + PyTorch + Computer Vision*
 - Built neural networks from scratch using NumPy, achieving 95.6% accuracy on gesture recognition
 - Developed multi-class CNN for sign language digits with 98.93% validation accuracy
 - Implemented fine-grained car classification using ResNet-50 transfer learning (73.78% accuracy on 196 categories)
 - **Technologies:** PyTorch, NumPy, CNNs, Transfer Learning, Image Classification
 
-### **[Hotel Price Prediction with Smart Sampling](https://github.com/adiredri/HotelPricePrediction)**
+### **[Hotel Price Prediction with Smart Sampling](https://github.com/adiredri/DS_Project)**
 *Web Scraping + Machine Learning + Active Learning*
 - Scraped real-time hotel data from Booking.com and Expedia using Playwright and BeautifulSoup
 - Developed Gaussian Process Regression with uncertainty-driven sampling, reducing data needs by 75%
