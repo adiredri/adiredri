@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
 **Dual B.Sc. Graduate** specializing in **Industrial Engineering & Information Systems** + **Computer Science & Deep Learning**
 
@@ -16,14 +16,14 @@ Currently: **Project Planning & Control Engineer** | **Data Analyst**
 Seeking: **Data Engineering** | **BI Development** | **Analytics** roles
 
 **What I Do:**
-- Build scalable data pipelines and analytics solutions
-- Transform raw data into strategic business insights
-- Develop interactive dashboards and reporting systems
-- Implement ML models for predictive analytics
+- 📊 Build scalable data pipelines and analytics solutions
+- 🔍 Transform raw data into strategic business insights
+- 🎯 Develop interactive dashboards and reporting systems
+- 🤖 Implement ML models for predictive analytics
 
 ---
 
-## Tech Stack
+## 💼 Tech Stack
 
 ### **Data & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,7 +53,7 @@ Seeking: **Data Engineering** | **BI Development** | **Analytics** roles
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adiredri&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -66,25 +66,39 @@ Seeking: **Data Engineering** | **BI Development** | **Analytics** roles
 
 ---
 
-## Featured Projects
+## 🎯 Featured Projects
 
-### **[Groupify - Smart Photo Sharing Platform](https://github.com/groupify-team/groupify)** 📸
+### 🚗 **[RoadEye - AI Road Safety Detection System](https://github.com/adiredri/RoadEye)**
+*YOLOv8 + Computer Vision + Real-Time Processing*
+- Developed custom YOLOv8 model for real-time detection of police cars, traffic cones, road signs, and accidents
+- Implemented advanced data pipeline with negative mining to reduce false positives by 40%
+- Trained on Israeli road dataset with 640×640 resolution achieving high mAP performance
+- **Technologies:** YOLOv8, Python, OpenCV, ONNX, Ultralytics, Computer Vision
+
+### 📸 **[Groupify - Smart Photo Sharing Platform](https://github.com/groupify-team/groupify)**
 *React + Firebase + AI Integration*
 - Built intelligent photo sharing app with face recognition for group trips
 - Implemented real-time collaboration features with Firebase backend
 - Developing AI-powered personalized galleries using face detection APIs
 - **Technologies:** React, Firebase, TailwindCSS, Face Recognition APIs, Vite
 
-### **[ClickTrust - Digital Asset Trading System](https://github.com/adiredri/ClickTrust)**
+### 💼 **[ClickTrust - Digital Asset Trading System](https://github.com/adiredri/ClickTrust)**
 *Full-Stack E-Commerce Platform*
 - Developed comprehensive digital marketplace for asset trading (tickets, subscriptions, digital products)
 - Implemented secure authentication, role-based access control, and automated order processing
 - Built RESTful API with complete CRUD operations and admin dashboard
 - **Technologies:** Node.js, Express, MongoDB, JavaScript, HTML/CSS
 
+### 🎯 **Project Planning & Control Analytics**
+*Professional Data Solutions*
+- Designed automated reporting systems reducing manual work by 70%
+- Built interactive dashboards for project tracking and resource optimization
+- Implemented data pipelines for real-time project performance monitoring
+- **Technologies:** Power BI, Python, SQL, Excel Automation
+
 ---
 
-## What Sets Me Apart
+## 🏆 What Sets Me Apart
 
 ```python
 class AdirEdri:
@@ -111,9 +125,9 @@ class AdirEdri:
 
 **Ready to discuss your next data challenge?**
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/adiredri/)
-- **Email:** adire7399@gmail.com
-- **Portfolio:** [View my work](#https://groupify-77202.firebaseapp.com/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/adiredri/)
+- 📧 **Email:** adire7399@gmail.com
+- 🌐 **Portfolio:** [View my work](#)
 
 ---
 
