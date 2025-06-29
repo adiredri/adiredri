@@ -68,23 +68,26 @@ Seeking: **Data Engineering** | **BI Development** | **Analytics** roles
 
 ## 🎯 Featured Projects
 
-### 📊 **[Real-Time Analytics Dashboard](https://github.com/adiredri/analytics-dashboard)**
-*Power BI + Python + SQL*
-- Built interactive dashboard processing 10M+ records
-- Automated ETL pipeline reducing report generation time by 85%
-- **Technologies:** Python, Pandas, SQL Server, Power BI
+### 📸 **[Groupify - Smart Photo Sharing Platform](https://github.com/groupify-team/groupify)**
+*React + Firebase + AI Integration*
+- Built intelligent photo sharing app with face recognition for group trips
+- Implemented real-time collaboration features with Firebase backend
+- Developing AI-powered personalized galleries using face detection APIs
+- **Technologies:** React, Firebase, TailwindCSS, Face Recognition APIs, Vite
 
-### 🤖 **[Predictive Maintenance System](https://github.com/adiredri/predictive-maintenance)**
-*Machine Learning + IoT Data*
-- Developed ML model predicting equipment failures with 94% accuracy
-- Reduced maintenance costs by 30% through predictive analytics
-- **Technologies:** PyTorch, PySpark, Docker, MongoDB
+### 💼 **[ClickTrust - Digital Asset Trading System](https://github.com/adiredri/ClickTrust)**
+*Full-Stack E-Commerce Platform*
+- Developed comprehensive digital marketplace for asset trading (tickets, subscriptions, digital products)
+- Implemented secure authentication, role-based access control, and automated order processing
+- Built RESTful API with complete CRUD operations and admin dashboard
+- **Technologies:** Node.js, Express, MongoDB, JavaScript, HTML/CSS
 
-### 📈 **[Customer Segmentation Engine](https://github.com/adiredri/customer-segmentation)**
-*Deep Learning + Business Intelligence*
-- Implemented clustering algorithms for customer behavior analysis
-- Increased marketing ROI by 40% through targeted campaigns
-- **Technologies:** Python, Scikit-learn, Tableau, PostgreSQL
+### 🎯 **Project Planning & Control Analytics**
+*Professional Data Solutions*
+- Designed automated reporting systems reducing manual work by 70%
+- Built interactive dashboards for project tracking and resource optimization
+- Implemented data pipelines for real-time project performance monitoring
+- **Technologies:** Power BI, Python, SQL, Excel Automation
 
 ---
 
